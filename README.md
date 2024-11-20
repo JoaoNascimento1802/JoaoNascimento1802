@@ -8,7 +8,6 @@
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascimento1802&layout=compact)
-## Technologies Used
 
 ---
 
