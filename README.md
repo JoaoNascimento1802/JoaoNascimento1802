@@ -1,4 +1,4 @@
-## Olá, meu nome é {João Emanuel}!
+## Hello my name is João Emanuel!
 
 ### ⚙️ GitHub Analytics
 
