@@ -69,7 +69,6 @@
 
 ---
 
-##
 ### 👨‍💻 What I"m Learning ?
 
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" alt="Ruby"/></code>
@@ -77,7 +76,6 @@
 
 ---
 
-##
 I'm a budding programmer with a focus on Java and front-end development using HTML, CSS, and databases. Currently, I'm pursuing a technical course at SENAI Suiço-Brasileiro to further enhance my skills.
 
 ---
