@@ -46,5 +46,5 @@
 
 <h3 align="left">⚖️ GitHub Stats:</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaonascimento1802&theme=light" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoNascimento1802&theme=dark" alt="GitHub Streak"/>
 </p>
