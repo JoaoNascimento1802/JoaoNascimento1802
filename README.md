@@ -23,14 +23,7 @@
       />
     </td>
     <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoNascimento1802&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
+      <br/>
 </table>
 
 --- 
