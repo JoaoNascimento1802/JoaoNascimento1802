@@ -123,6 +123,9 @@ Tenho 17 anos e estou na metade do curso técnico de Desenvolvimento de Sistemas
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=JoaoNascimento1802&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+    
+ ---
+ 
   <img 
     alt="GitHub Stats" 
     height="200" 
