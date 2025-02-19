@@ -25,6 +25,8 @@ Tenho 17 anos e estou na metade do curso técnico de Desenvolvimento de Sistemas
 
 ### 🤖 Linguagens e Tecnologias
 
+---
+
 <img 
     align="left" 
     alt="HTML"
@@ -109,7 +111,11 @@ Tenho 17 anos e estou na metade do curso técnico de Desenvolvimento de Sistemas
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
+
+---
 
 <p style="display: flex; gap: 10px;">
   <img 
