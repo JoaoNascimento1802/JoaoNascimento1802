@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 17 anos e estou na metade do curso técnico de Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro Paulo Ernesto Tolle e sou desenvolvedor <strong>Junior</strong>.<br>
+Tenho 17 anos e estou no segundo semestre do curso técnico de Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro Paulo Ernesto Tolle e sou desenvolvedor <strong>Junior</strong>.<br>
 
 <p>
     <a href="https://github.com/JoaoNascimento1802?tab=repositories&sort=stargazers">
