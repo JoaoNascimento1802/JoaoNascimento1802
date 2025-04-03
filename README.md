@@ -1,6 +1,6 @@
 ## Hi, I'm Emanuel! 👾
 
-Sou um desenvolvedor do Brasil apaixonado por tecnologia e programação.
+Sou um desenvolvedor do Brasil apaixonado por tecnologia,programação de jogos e Segurança da informação.
 
 ---
 
