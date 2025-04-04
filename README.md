@@ -2,9 +2,9 @@
 
 ---
 
-<img align="right" height="150" src="giphy.gif" />
-
 ### Technologies
+
+<img align="right" height="120" src="giphy.gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -74,4 +74,6 @@
 
 ---
 
-<img src="blade-runner-ana-de-armas.gif" align="center" height="200" />
+<div align="center">
+  <img src="blade-runner-ana-de-armas.gif" height="250" />
+</div>
