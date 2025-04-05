@@ -1,7 +1,5 @@
-<!-- Giphy Header -->
-<a href="https://giphy.com/gifs/art-blade-runner-scifi-l0MYLPO3bS6Y1XGZq">
-  <img src="https://media.giphy.com/media/l0MYLPO3bS6Y1XGZq/giphy.gif" alt="Blade Runner Giphy" style="width:100%; height:auto"/>
-</a>
+<!-- Blade Runner Ana de Armas Header -->
+<img src="./blade-runner-ana-de-armas.gif" alt="Blade Runner Header" style="width:100%; height:auto"/>
 
 <h1 align="center">Olá! 👋 Me chamo João Nascimento</h1>
 
@@ -17,6 +15,7 @@
   </a>
 </div>
 
+<!-- Coding transparent gif (lateral) -->
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 <h3 align="left">💫 Sobre Mim</h3>
@@ -87,7 +86,7 @@
 
 <br/>
 
-<!-- Footer Blade Runner Pixel GIF -->
+<!-- Blade Runner Pixel GIF Rodapé -->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
   <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Blade Runner Pixel" style="width:auto; height:auto"/>
 </a>
