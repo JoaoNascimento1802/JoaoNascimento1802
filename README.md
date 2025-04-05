@@ -5,9 +5,6 @@
 
 <h1 align="center">Olá! 👋 Me chamo João Nascimento</h1>
 
-
-<h1 align="center">Olá! 👋 Me chamo João Nascimento</h1>
-
 <div align="center">
   <a href="https://github.com/JoaoNascimento1802">
     <img width="162px" src="https://komarev.com/ghpvc/?username=JoaoNascimento1802&label=Profile%20views&color=318CE7&style=for-the-badge" alt="Profile views" />
