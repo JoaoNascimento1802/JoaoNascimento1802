@@ -28,12 +28,43 @@
 ⚡ Curioso por natureza e apaixonado por tecnologia.
 </h4>
 
-<div align="left">
-  <a href="mailto:anonymousprogra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
-  <a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank"><img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
+<br/>
+
+<h3 align="center">📬 Contato</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:anonymousprogra@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/joshuathadi" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
+          <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -58,10 +89,14 @@
 
 <br/>
 
-<h3 align="center">⭐️ Repositório em Destaque</h3>
+<h3 align="center">⭐️ Repositórios em Destaque</h3>
 <div align="center">
   <a href="https://github.com/JoaoNascimento1802/Projeto-Integrador">
     <img width="790" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Projeto-Integrador&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/JoaoNascimento1802/Api-Rawg-React">
+    <img width="790" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Api-Rawg-React&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
   </a>
 </div>
 
