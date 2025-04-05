@@ -1,79 +1,95 @@
-## Hi, I'm Emanuel! I'm from Brazil 👾
+<!-- Giphy Header -->
+<a href="https://giphy.com/gifs/art-blade-runner-scifi-l0MYLPO3bS6Y1XGZq">
+  <img src="https://media.giphy.com/media/l0MYLPO3bS6Y1XGZq/giphy.gif" alt="Blade Runner Giphy" style="width:100%; height:auto"/>
+</a>
 
----
+<h1 align="center">Olá! 👋 Me chamo João Nascimento</h1>
 
-### Technologies
+<div align="center">
+  <a href="https://github.com/JoaoNascimento1802">
+    <img width="162px" src="https://komarev.com/ghpvc/?username=JoaoNascimento1802&label=Profile%20views&color=318CE7&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://api.github-star-counter.workers.dev/user/JoaoNascimento1802">
+    <img width="115px" alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/JoaoNascimento1802" />
+  </a>
+  <a href="https://github.com/JoaoNascimento1802?tab=followers">
+    <img width="147px" alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/JoaoNascimento1802?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
+  </a>
+</div>
 
-<img align="right" height="120" src="giphy.gif" />
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+
+<h3 align="left">💫 Sobre Mim</h3>
+<h4>
+🌱 Estou sempre aprimorando minhas habilidades em programação.</br>
+🔭 Tenho interesse em desenvolvimento full stack e tecnologias emergentes.</br>
+💬 Gosto de explorar temas como Inteligência Artificial, Machine Learning, Desenvolvimento Web e Mobile.</br>
+⚡ Curioso por natureza e apaixonado por tecnologia.
+</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
+  <a href="mailto:anonymousprogra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
+  <a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank"><img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
+  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
 </div>
 
----
+<br/>
 
-### Social Media
-
-<div align="left">
-  <a href="https://www.instagram.com/_emanuelnasc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/938948899249467532" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:joao.emanuel.pn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="www.linkedin.com/in/joaonascimento1802" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-### Stats
-
+<h3 align="center">⚡ GitHub Status</h3>
+<br>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/JoaoNascimento1802/count.svg?" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=JoaoNascimento1802&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascimento1802&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
----
+<br/><br/>
 
+<h3 align="center">📚 Linguagens e Ferramentas</h3>
+<br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=JoaoNascimento1802&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoNascimento1802&radius=16&theme=react&area=true&order=5" height="300" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,arduino,nextjs,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
----
+<br/>
 
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoNascimento1802/JoaoNascimento1802/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoNascimento1802/JoaoNascimento1802/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/JoaoNascimento1802/JoaoNascimento1802/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
+<h3 align="center">⭐️ Repositório em Destaque</h3>
 <div align="center">
-  <img src="blade-runner-ana-de-armas.gif" height="250" />
+  <a href="https://github.com/JoaoNascimento1802/Projeto-Integrador">
+    <img width="790" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Projeto-Integrador&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+  </a>
 </div>
+
+<br/>
+
+<h3 align="center">💻 Tech Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+</div>
+
+<br/>
+
+<!-- Footer Blade Runner Pixel GIF -->
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Blade Runner Pixel" style="width:auto; height:auto"/>
+</a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
