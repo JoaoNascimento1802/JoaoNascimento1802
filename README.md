@@ -17,6 +17,8 @@
   </a>
 </div>
 
+---
+
 <!-- Coding transparent gif (lateral) -->
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
@@ -28,7 +30,7 @@
 ⚡ Curioso por natureza e apaixonado por tecnologia.
 </h4>
 
-<br/>
+---
 
 <h3 align="center">📬 Contato</h3>
 
@@ -42,27 +44,28 @@
   <a href="mailto:joao.emanuel.pn@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/mVm29vK.png"/></a>
 </p>
 
-<br/>
+---
 
 <h3 align="center">⚡ GitHub Status</h3>
-<br>
+
 <div align="center">
   <img width="380" src="https://github-readme-stats.vercel.app/api?username=JoaoNascimento1802&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascimento1802&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<br/><br/>
+---
 
 <h3 align="center">📚 Linguagens e Ferramentas</h3>
-<br/>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,arduino" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,ubuntu,python,javascript,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,bash,vim,htmx" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=arduino,kali,ubuntu" /><br>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,pycharm,figma,notion" />
 </div>
 
-<br/>
+---
 
 <h3 align="center">⭐️ Repositórios em Destaque</h3>
 
@@ -81,11 +84,10 @@
   </tr>
 </table>
 
-
-
-<br/>
+---
 
 <h3 align="center">💻 Tech Stack</h3>
+
 <div align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -96,7 +98,7 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-<br/>
+---
 
 <!-- Blade Runner Pixel GIF Rodapé -->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
