@@ -55,15 +55,17 @@
 
 ---
 
+---
+
 <h3 align="center">📚 Linguagens e Ferramentas</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,bash,vim,htmx" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=arduino,kali,ubuntu" /><br>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,pycharm,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=mysql,bash,vim,htmx,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,arduino,kali,ubuntu,github" /><br>
+  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,figma,notion,linux" />
 </div>
+
 
 ---
 
