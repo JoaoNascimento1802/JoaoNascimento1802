@@ -65,15 +65,22 @@
 <br/>
 
 <h3 align="center">⭐️ Repositórios em Destaque</h3>
-<div align="center">
-  <a href="https://github.com/JoaoNascimento1802/Projeto-Integrador">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Projeto-Integrador&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-  </a>
-  <br><br>
-  <a href="https://github.com/JoaoNascimento1802/Api-Rawg-React">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Api-Rawg-React&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-  </a>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JoaoNascimento1802/Projeto-Integrador">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Projeto-Integrador&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JoaoNascimento1802/Api-Rawg-React">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Api-Rawg-React&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <br/>
