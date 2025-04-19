@@ -1,6 +1,6 @@
 <!-- Novo GIF de Header -->
 <p align="center">
-  <img src="./9yugvn57e5o81.gif" alt="Blade Runner Header" width="90%">
+  <img src="./9yugvn57e5o81.gif" alt="Blade Runner Header" width="100%">
 </p>
 
 <h1 align="center">Olá! 👋 Me chamo João Nascimento</h1>
@@ -101,7 +101,7 @@
 
 <!-- Novo GIF de Rodapé -->
 <p align="center">
-  <img src="./jchstc77e5o81.gif" alt="Blade Runner Pixel" width="90%">
+  <img src="./jchstc77e5o81.gif" alt="Blade Runner Pixel" width="100%">
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
