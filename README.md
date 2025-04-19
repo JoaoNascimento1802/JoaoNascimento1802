@@ -1,6 +1,6 @@
-<!-- Blade Runner Ana de Armas Header -->
+<!-- Novo GIF de Header -->
 <p align="center">
-  <img src="./blade-runner-ana-de-armas.gif" alt="Blade Runner Header" width="100%">
+  <img src="./9yugyn57e5o81.gif" alt="Blade Runner Header" width="100%">
 </p>
 
 <h1 align="center">Olá! 👋 Me chamo João Nascimento</h1>
@@ -53,9 +53,7 @@
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascimento1802&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-
 ---
-
 
 <h3 align="center">📚 Linguagens e Ferramentas</h3>
 
@@ -65,7 +63,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,arduino,kali,ubuntu,github" /><br>
   <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,figma,notion,linux" />
 </div>
-
 
 ---
 
@@ -86,7 +83,6 @@
   </tr>
 </table>
 
-
 ---
 
 <h3 align="center">💻 Tech Stack</h3>
@@ -103,9 +99,9 @@
 
 ---
 
-<!-- Blade Runner Pixel GIF Rodapé -->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Blade Runner Pixel" style="width:auto; height:auto"/>
-</a>
+<!-- Novo GIF de Rodapé -->
+<p align="center">
+  <img src="./jchstc77e5o81.gif" alt="Blade Runner Pixel" style="width:auto; height:auto"/>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
