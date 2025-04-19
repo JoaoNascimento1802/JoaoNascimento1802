@@ -1,6 +1,6 @@
 <!-- Novo GIF de Header -->
 <p align="center">
-  <img src="./9yugyn57e5o81.gif" alt="Blade Runner Header" width="100%">
+  <img src="./9yugvn57e5o81.gif" alt="Blade Runner Header" width="100%">
 </p>
 
 <h1 align="center">Olá! 👋 Me chamo João Nascimento</h1>
