@@ -16,16 +16,12 @@
 ---
 
 ### <p align="center">💫 Sobre Mim</p>
-<p align="center">
-  <br>
-  🌱 Estou sempre aprimorando minhas habilidades em programação e explorando novas tecnologias.
-  <br>
-  🔭 Tenho interesse em desenvolvimento full stack, com um carinho especial por back-end e arquitetura de sistemas.
-  <br>
-  💬 Gosto de discutir sobre Inteligência Artificial, Machine Learning e o futuro do Desenvolvimento Web e Mobile.
-  <br>
-  ⚡ Curioso por natureza e buscando oportunidades para colaborar em projetos inovadores.
-</p>
+<div align="center">
+  <p>🌱 Estou sempre aprimorando minhas habilidades em programação e explorando novas tecnologias.</p>
+  <p>🔭 Tenho interesse em desenvolvimento full stack, com um carinho especial por back-end e arquitetura de sistemas.</p>
+  <p>💬 Gosto de discutir sobre Inteligência Artificial, Machine Learning e o futuro do Desenvolvimento Web e Mobile.</p>
+  <p>⚡ Buscando oportunidades para colaborar em projetos inovadores e de código aberto.</p>
+</div>
 
 ---
 
@@ -39,12 +35,18 @@
 
 ---
 
-### <p align="center">📊 GitHub Stats & Conquistas</p>
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoNascimento1802&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10"/>
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascimento1802&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <br>
-  <img width="825" src="https://github-profile-trophy.vercel.app/?username=JoaoNascimento1802&theme=synthwave&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+### <p align="center">📊 Minhas Estatísticas</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JoaoNascimento1802&theme=synthwave&layout=compact" />
+</a>
+<br><br>
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoNascimento1802&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascimento1802&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<br>
+<img width="825" src="https://github-profile-trophy.vercel.app/?username=JoaoNascimento1802&theme=synthwave&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -68,18 +70,17 @@
 ---
 
 ### <p align="center">📬 Entre em Contato</p>
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/joaonascimento1802"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:joao.emanuel.pn@gmail.com"><img width="40px" alt="Gmail" title="Gmail" src="https://i.imgur.com/mVm29vK.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/938948899249467532"><img width="40px" alt="Discord" title="Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_emanuelnasc"><img width="40px" alt="Instagram" title="Instagram" src="https://i.imgur.com/qiXu7b2.png"/></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/joaonascimento1802">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:joao.emanuel.pn@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://discord.gg/938948899249467532">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="https://www.instagram.com/_emanuelnasc">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github.com/JoaoNascimento1802/JoaoNascimento1802/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
