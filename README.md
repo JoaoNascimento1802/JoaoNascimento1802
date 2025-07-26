@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./Q1Cm.gif" alt="Header GIF" width="75%"/>
-</div>
 
 <h1 align="center">Olá! 👋 Me chamo João Nascimento</h1>
 
