@@ -20,11 +20,15 @@
 
 ---
 
-<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
+<h3 align="center">📊 Estatísticas do GitHub</h3>
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoaoNascimento1802&show_icons=true&count_private=true&hide_border=false&title_color=88c0d0&icon_color=88c0d0&text_color=eceff4&bg_color=2e3440&border_radius=10&border_color=2e3440" alt="Estatísticas de João Nascimento no GitHub"/>
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascimento1802&layout=compact&hide_border=false&title_color=88c0d0&text_color=eceff4&bg_color=2e3440&border_radius=10&border_color=2e3440" />
 </div>
+
+---
+
+<h3 align="center">📈 Grafo de Atividade</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoNascimento1802&bg_color=2e3440&color=eceff4&line=81a1c1&point=88c0d0&area=true&hide_border=true" alt="Grafo de Atividade"/>
 </p>
@@ -56,6 +60,12 @@
     <a href="https://github.com/JoaoNascimento1802/Api-Rawg-React" target="_blank">
         <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Api-Rawg-React&theme=nord&title_color=88c0d0&icon_color=88c0d0&text_color=eceff4&bg_color=2e3440&border_radius=10" />
     </a>
+</div>
+
+<div align="center">
+<br><p align="center"><b>Contador de Visitantes</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/JoaoNascimento1802/count.svg" alt="Contador de Visitantes"/></p>
+<br>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5e81ac&height=120&section=footer"/>
