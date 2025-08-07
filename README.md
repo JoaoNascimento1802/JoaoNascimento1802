@@ -62,10 +62,6 @@
     </a>
 </div>
 
-<div align="center">
-<br><p align="center"><b>Contador de Visitantes</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/JoaoNascimento1802/count.svg" alt="Contador de Visitantes"/></p>
-<br>
-</div>
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5e81ac&height=120&section=footer"/>
