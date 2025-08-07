@@ -28,7 +28,7 @@
 
 ---
 
-<h3 align="center">📈 Grafo de Atividade</h3>
+<h3 align="center">📈 Gráfico de Atividade</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoNascimento1802&bg_color=2e3440&color=eceff4&line=81a1c1&point=88c0d0&area=true&hide_border=true" alt="Grafo de Atividade"/>
 </p>
