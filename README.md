@@ -49,8 +49,8 @@
     <a href="https://github.com/JoaoNascimento1802/Projeto-Integrador" target="_blank">
         <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Projeto-Integrador&theme=nord&title_color=88c0d0&icon_color=88c0d0&text_color=eceff4&bg_color=2e3440&border_radius=10" />
     </a>
-    <a href="https://github.com/JoaoNascimento1802/Api-Rawg-React" target="_blank">
-        <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Api-Rawg-React&theme=nord&title_color=88c0d0&icon_color=88c0d0&text_color=eceff4&bg_color=2e3440&border_radius=10" />
+    <a href="https://github.com/JoaoNascimento1802/Pride_Vision_AI" target="_blank">
+        <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoNascimento1802&repo=Pride_Vision_AI&theme=nord&title_color=88c0d0&icon_color=88c0d0&text_color=eceff4&bg_color=2e3440&border_radius=10" />
     </a>
 </div>
 
