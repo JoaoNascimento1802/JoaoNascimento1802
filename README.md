@@ -29,16 +29,16 @@
 ---
 
 <h3 align="center">📈 Gráfico de Atividade</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoNascimento1802&bg_color=2e3440&color=eceff4&line=81a1c1&point=88c0d0&area=true&hide_border=true" alt="Grafo de Atividade"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoNascimento1802&theme=nord&bg_color=2e3440&color=eceff4&line=81a1c1&point=88c0d0&area=true&hide_border=true&cache=1" alt="Grafo de Atividade"/>
+</div>
 
 ---
 
 <h3 align="center">🏆 Troféus do GitHub</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoNascimento1802&theme=nord&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoNascimento1802&theme=nord&row=2&no-bg=true&column=4&margin-w=15&margin-h=15&cache=1" alt="GitHub Trophies"/>
+</div>
 
 ---
 
