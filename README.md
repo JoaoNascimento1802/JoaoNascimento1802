@@ -1,14 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5e81ac&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5e81ac&size=35&center=true&vCenter=true&width=1000&lines=Olá!+👋+Me+chamo+João+Nascimento;Sou+um+desenvolvedor+apaixonado+por+código;Interessado+em+desenvolvimento+Full+Stack;Sempre+buscando+aprender+e+colaborar!;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5e81ac&size=35&center=true&vCenter=true&width=1000&lines=Olá!+👋+Me+chamo+João+Nascimento;Estudante+de+Cibersegurança;Focado+em+Red+Team+e+Pentest;Explorando+vulnerabilidades+e+sistemas;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ---
 
-### 💫 Sobre Mim
-- 🌱 Estou sempre aprimorando minhas habilidades em programação.
-- 🔭 Tenho interesse em desenvolvimento full stack e tecnologias emergentes.
-- 💬 Gosto de explorar temas como Inteligência Artificial e Machine Learning.
-- ⚡ Curioso por natureza e apaixonado por tecnologia.
+### 🛡️ Sobre Mim
+- 🎯 Atualmente cursando e aprofundando meus conhecimentos em **Cibersegurança e Segurança Ofensiva (Red Team)**.
+- 🔭 Tenho grande interesse em testes de invasão (Pentest), exploração de vulnerabilidades e automação de segurança.
+- 💬 Gosto de explorar plataformas de CTF (Capture The Flag), engenharia reversa e análise de malware.
+- ⚡ Curioso por natureza: gosto de entender como os sistemas funcionam por debaixo dos panos para descobrir como quebrá-los (e protegê-los).
 
 ### 📫 Entre em Contato
 <div align="center">
@@ -35,12 +35,11 @@
 
 ---
 
-<h3 align="center">📚 Linguagens e Ferramentas</h3>
+<h3 align="center">⚔️ Arsenal & Ferramentas</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,htmx,nodejs,mysql&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,ubuntu,vscode&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,notion,arduino,pycharm,vim,kali&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,bash,powershell&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,rust,php&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vim,regex,mysql&theme=dark" />
 </div>
 
 ---
